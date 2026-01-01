@@ -1,4 +1,4 @@
--- Matter Absorption Tool
+-- Matter Capture Tool
 
 
 local USES = 331
